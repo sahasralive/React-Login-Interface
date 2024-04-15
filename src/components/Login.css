@@ -1,0 +1,25 @@
+
+.custom-container {
+  width: 100%;
+  padding-left:30%;
+  padding-right: 30%;
+  padding-top: 110px;
+  padding-bottom: 120px;
+}
+
+p{
+    padding: 20px;
+}
+
+
+
+@media screen and (max-width:400px){
+    .custom-container{
+        padding: 10%;
+        font-size: small;
+        padding-top: 60px;
+        padding-bottom: 100px;
+    }
+
+   
+}
